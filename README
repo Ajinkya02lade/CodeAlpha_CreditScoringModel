@@ -1,0 +1,94 @@
+# CodeAlpha - Credit Scoring Model
+
+## 📌 Project Overview
+This project is developed as part of the **CodeAlpha Machine Learning Internship**.
+
+The Credit Scoring Model predicts whether a customer is creditworthy based on their financial and personal information using Machine Learning classification algorithms.
+
+## 🎯 Objective
+To build a machine learning model that predicts an individual's creditworthiness using historical financial data.
+
+## 🚀 Features
+- Data preprocessing and cleaning
+- Feature engineering
+- Data visualization
+- Model training and evaluation
+- Credit score prediction
+- Performance metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook / VS Code
+
+## 📂 Dataset
+The dataset contains customer financial information such as:
+- Income
+- Age
+- Loan Amount
+- Credit History
+- Employment Status
+- Other financial features
+
+*(You can replace this section with your dataset source or Kaggle link.)*
+
+## 🤖 Machine Learning Algorithm
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+## 📊 Workflow
+1. Load the dataset
+2. Clean and preprocess the data
+3. Perform feature engineering
+4. Split data into training and testing sets
+5. Train the machine learning model
+6. Evaluate model performance
+7. Predict customer creditworthiness
+
+## 📈 Results
+The trained model successfully predicts whether a customer is likely to be creditworthy based on the provided input features.
+
+## 📁 Project Structure
+
+```
+CodeAlpha_CreditScoringModel/
+│── dataset/
+│── notebook.ipynb
+│── main.py
+│── requirements.txt
+│── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/YourUsername/CodeAlpha_CreditScoringModel.git
+```
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the project
+
+```bash
+python main.py
+```
+
+## 👨‍💻 Author
+
+**Ajinkya Hitesh Lade**
+
+Machine Learning Intern at CodeAlpha
+
+## 📜 License
+
+This project is developed for educational purposes as part of the CodeAlpha Internship.
